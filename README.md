@@ -1,6 +1,44 @@
-# MiGhettoPD
+<a name="readme-top"></a>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License](https://img.shields.io/github/license/SVRECCO/MiGhettoPD?style=for-the-badge)](https://github.com/SVRECCO/MiGhettoPD/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Over the past 12 hours, I've built an HUD, Killfeed, and Toast notification system using Vue, Vite, and Tailwind CSS. This project showcases my skills in creating dynamic, and visually appealing features for the server.
+<!-- Badges Links Update -->
+[contributors-shield]: https://img.shields.io/github/contributors/SVRECCO/MiGhettoPD.svg?style=for-the-badge
+[contributors-url]: https://github.com/SVRECCO/MiGhettoPD/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SVRECCO/MiGhettoPD.svg?style=for-the-badge
+[forks-url]: https://github.com/SVRECCO/MiGhettoPD/network/members
+[stars-shield]: https://img.shields.io/github/stars/SVRECCO/MiGhettoPD.svg?style=for-the-badge
+[stars-url]: https://github.com/SVRECCO/MiGhettoPD/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SVRECCO/MiGhettoPD.svg?style=for-the-badge
+[issues-url]: https://github.com/SVRECCO/MiGhettoPD/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/TheRealSethV
+
+<br />
+<div align="center">
+  <a href="https://techstarwebsolutions.com/Icons/GRP2.png">
+    <img src="https://techstarwebsolutions.com/Icons/GRP2.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">MiGhettoPD</h3>
+
+  <p align="center">
+    Over the past 12 hours, I've built an HUD, Killfeed, and Toast notification system using Vue, Vite, and Tailwind CSS. This project showcases my skills in creating dynamic, and visually appealing features for the server.
+    <br />
+    <a href="https://github.com/SVRECCO/MiGhettoPD"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://discord.gg/mgrppd" target="_blank">Join MiGhetto LSPD Discord</a>
+    ·
+    <a href="https://github.com/SVRECCO/MiGhettoPD/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/SVRECCO/MiGhettoPD/issues">Request Feature</a>
+  </p>
+</div>
 
 ## Features
 
