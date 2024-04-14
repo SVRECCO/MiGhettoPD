@@ -95,6 +95,7 @@
             </div>
             <div v-else-if="menu === 'settings'" class="content-wrapper">
               <h2 class="menu-title">{{ menuTitle }}</h2>
+              <!-- settings here -->
             </div>
             <div v-else-if="menu === 'notifications'" class="content-wrapper">
               <h2 class="menu-title">{{ menuTitle }}</h2>
