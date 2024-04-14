@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'HurmitNerdFont';
+    src: url('../font/HurmitNerdFont-Bold.otf') format('opentype'),
+         url('../font/HurmitNerdFont-BoldItalic.otf') format('opentype'),
+         url('../font/HurmitNerdFont-Italic.otf') format('opentype'),
+         url('../font/HurmitNerdFont-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'HurmitNerdFont';
+    src: url('../font/HurmitNerdFont-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'HurmitNerdFont';
+    src: url('../font/HurmitNerdFont-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'MartianMonoNerdFont';
+    src: url('../font/MartianMonoNerdFont-Bold.ttf') format('truetype'),
+         url('../font/MartianMonoNerdFont-Regular.ttf') format('truetype'),
+         url('../font/MartianMonoNerdFont-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
